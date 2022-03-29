@@ -7,7 +7,7 @@
 </head>
 <body>
    <div >
-		哈哈哈哈哈哈，嗨嗨嗨
-	 </div>
+	哈哈哈哈哈哈，嗨嗨嗨
+   </div>
 </body>
 </html>
